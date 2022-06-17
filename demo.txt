@@ -1,0 +1,2 @@
+Welcome to usage of readme and gitignore
+ 
